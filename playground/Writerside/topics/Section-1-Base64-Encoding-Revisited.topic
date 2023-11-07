@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Section-1-Base64-Encoding-Revisited" title="Section 1: Base64 Encoding Revisited">
+
+    <title>
+        Section 1: Base64 Encoding Revisited
+    </title>
+    <p>Base 64 will be used a lot in this series. So open your decoders!</p>
+    <p>But it won't be raw Base-64 it will be Base-64 combined with other encodings.</p>
+
+</topic>

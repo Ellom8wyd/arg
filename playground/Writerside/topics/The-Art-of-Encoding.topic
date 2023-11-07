@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="The-Art-of-Encoding" title="The Art of Encoding">
+
+    <title>
+        The Art of Encoding
+    </title>
+    <chapter title="What will we do in this chapter?" id="what-will-we-do-in-this-chapter">
+        <p>In this chapter, we will delve deeper into the world of encoding, exploring various techniques beyond Base64.
+            Encoding is the process of converting data into a specific format that can be easily transmitted or stored,
+            while decoding is the reverse process of converting encoded data back to its original form. Understanding
+            different encoding methods and their applications can be a valuable skill in the world of puzzles and
+            ARGs.</p>
+    </chapter>
+
+</topic>

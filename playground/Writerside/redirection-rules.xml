@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="19b7b488">
+        <description>Created after removal of "About Second instance" from Second Instance</description>
+        <accepts>second-instance.html</accepts>
+    </rule>
+    <rule id="54ce9de9">
+        <description>Created after removal of "Reuse content" from Second Instance</description>
+        <accepts>Reuse-content.html</accepts>
+    </rule>
+    <rule id="bbd2dbe">
+        <description>Created after removal of "Unveiling the Secrets" from Second Instance</description>
+        <accepts>Unveiling-the-Secrets.html</accepts>
+    </rule>
+</rules>

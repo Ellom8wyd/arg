@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Steganography" title="Section 3: Steganography">
+
+    <title>
+        Section 3: Steganography
+    </title>
+    <chapter title="What is steganography?" id="what-is-steganography">
+        <p>Steganography is the practice of concealing one piece of information within another in a way that makes the
+            existence of the hidden information difficult to detect. It's a method of hiding data within another medium,
+            such as an image, audio file, or text, without changing the overall appearance of the original medium. The
+            word &quot;steganography&quot; comes from the Greek words &quot;steganos,&quot; meaning covered or hidden,
+            and &quot;graphia,&quot; meaning writing.</p>
+        <list>
+            <li>Hidden Audio Messages: Players discover an audio recording or song within the game. When analyzed, they
+                find hidden messages or clues encoded in the audio's spectral frequencies or audio waveform.
+            </li>
+            <li>Cryptic QR Codes: Throughout the game, players come across QR codes. When scanned, they lead to
+                seemingly ordinary websites. However, by extracting information from the QR code's pixel data, they
+                reveal hidden messages or coordinates.
+            </li>
+            <li>Hidden Text in Images: Players examine various images scattered throughout the game. By using
+                steganography tools, they extract hidden text or symbols within the images, which provide vital insights
+                or clues.
+            </li>
+        </list>
+    </chapter>
+
+</topic>

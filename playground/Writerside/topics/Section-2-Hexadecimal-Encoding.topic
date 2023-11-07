@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Section-2-Hexadecimal-Encoding" title="Section 2: Hexadecimal Encoding">
+
+    <title>
+        Section 2: Hexadecimal Encoding
+    </title>
+    <p>I don't think we will use hexadecimal as much, but we should have it ready if we get stuck.
+        But we may use it a lot in different chapters(dates)</p>
+
+</topic>
